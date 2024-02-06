@@ -1,0 +1,5 @@
+python-asgiref source: file-without-copyright-information
+python-asgiref source: no-debian-changes
+python-asgiref source: source-contains-prebuilt-windows-binary
+python-asgiref source: source-is-missing
+python-asgiref source: source-package-encodes-python-version
